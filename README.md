@@ -12,7 +12,8 @@
 
  4.This course i have done from pantech yt channel so all the creadit for teaching and the codes and project goes to pantech and I a simply Usng , practicing and uploading them for learning pourpose.
 
-  5. Because I don't have nucleo board which was used in course for project coding . I am just writing there codes and uploading here .
+  5. Because I don't have nucleo board which was used in course for project coding . I am just writing there codes and or just skipping it only writing code for pc and readme .
   If in future possible . I will do real practical board implemetation . Currently i will try to do the projects using wokwi simulator for applicable projects.
 
 6.For codes I have runed each and every code and for better understanding I will  try to add images of the codes output . 
+
